@@ -1,0 +1,311 @@
+p0{
+	color: #007fff;
+	animation-name: letter;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p1{
+	color: #007fff;
+	animation-name: letter1;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p2{
+	color: #007fff;
+	animation-name: letter2;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p3{
+	color: #007fff;
+	animation-name: letter3;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p4{
+	color: #007fff;
+	animation-name: letter4;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p5{
+	color: #007fff;
+	animation-name: letter5;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p6{
+	color: #007fff;
+	animation-name: letter6;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p7{
+	color: #007fff;
+	animation-name: letter7;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p8{
+	color: #007fff;
+	animation-name: letter8;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+p9{
+	color: #007fff;
+	animation-name: letter9;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+
+p10{
+	color:#007fff;
+	animation-name: letter10;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes letter {
+	0% {color:red;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:red;}
+	100% {color:#007fff;}
+}
+@keyframes letter1 {
+	0% {color:#007fff;}
+	5% {color:red;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:red;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter2 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:red;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:red;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter3 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:red;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:red;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter4 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:red;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:red;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter5 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:red;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:red;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter6 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:red;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:red;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter7 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:red;}
+	45% {color:#007fff;}
+	50% {color:#007fff;}
+	55% {color:#007fff;}
+	60% {color:red;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter8 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:red;}
+	50% {color:#007fff;}
+	55% {color:red;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter9 {
+	0% {color:#007fff;}
+	5% {color:#007fff;}
+	10% {color:#007fff;}
+	15% {color:#007fff;}
+	20% {color:#007fff;}
+	25% {color:#007fff;}
+	30% {color:#007fff;}
+	35% {color:#007fff;}
+	40% {color:#007fff;}
+	45% {color:#007fff;}
+	50% {color:red;}
+	55% {color:#007fff;}
+	60% {color:#007fff;}
+	65% {color:#007fff;}
+	70% {color:#007fff;}
+	75% {color:#007fff;}
+	80% {color:#007fff;}
+	85% {color:#007fff;}
+	90% {color:#007fff;}
+	95% {color:#007fff;}
+	100% {color:#007fff;}
+}
+@keyframes letter10 {
+	0% {color:#007fff;}
+	25% {color: white;}
+	50% {color:#007fff;}
+	75% {color: white;}
+}
+h1 {
+	text-align: center;
+}
+/* add 'b' to see a differences*/
+ody { 
+	background-color: #007fff;
+}
